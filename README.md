@@ -1,6 +1,13 @@
 # ChallengeNewsletterCard
-In this frontend challenge, you'll build a Newsletter Card Component. This challenge is perfect for you if you've been learning HTML and CSS and are looking to practice what you've learned by building something new and beginner-friendly.
-![Newsletter Card Component](./design/desktop-cover.png)
+
+**Titre du défi**
+Composant de la carte Bulletin
+
+**Description du défi**
+Dans ce défi, vous allez créer un composant de carte de newsletter. Ce défi est parfait pour vous si vous avez appris le HTML et le CSS et que vous souhaitez mettre en pratique ce que vous avez appris en créant quelque chose de nouveau et d’agréable pour les débutants.
+
+**Niveau de difficulté**
+Débutant
 
 **Challenge Title**
 Newsletter Card Component
@@ -13,6 +20,25 @@ Beginner
 
 **Tags**
 FRONTEND
+
+**Apprentissage**
+Dans ce défi de frontend, vous apprendrez à construire un composant d’interface utilisateur du monde réel en utilisant HTML et CSS. Vous apprendrez également comment utiliser CSS Flexbox pour organiser le composant et le rendre réactif. Ce défi est une excellente occasion d’améliorer vos compétences en HTML et CSS en créant un projet de front-end convivial pour les débutants. Alors, qu’attendez-vous ?
+
+**Exigences**
+
+- Le composant de la carte d’information doit comporter un champ de saisie de courriel permettant à l’utilisateur de saisir son adresse de courriel et un bouton d’inscription.
+- Un champ de saisie par courriel doit être validé avant que l’utilisateur puisse soumettre le formulaire.
+- Si l’adresse e-mail n’est pas valide, un message d’alerte d’erreur doit être affiché à l’utilisateur.
+- Lorsque l’utilisateur clique sur le bouton d’abonnement, un message de réussite doit être affiché à l’utilisateur.
+- Afficher l’état de vol stationnaire de tous les éléments.
+- Le composant doit être réactif et s’afficher correctement sur différentes tailles d’écran.
+- Faites en sorte que cette page de destination ressemble le plus possible au design.
+
+I hope you'll enjoy building this challenge.
+
+Feel free to share your solution on the [website](https://www.frontendpro.dev/) or on social media and [tag us](https://twitter.com/FrontendProHQ).
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 **Learning**
 In this frontend challenge, you'll learn how to build a real-world UI component using HTML & CSS. You'll also learn how to use CSS Flexbox to lay out the component and make it responsive. This frontend challenge is a great opportunity to improve your HTML & CSS skills by building a beginner-friendly frontend project. So what are you waiting for?
