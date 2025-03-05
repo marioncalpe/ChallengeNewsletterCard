@@ -1,4 +1,5 @@
 # ChallengeNewsletterCard
+In this frontend challenge, you'll build a Newsletter Card Component. This challenge is perfect for you if you've been learning HTML and CSS and are looking to practice what you've learned by building something new and beginner-friendly.
 ![Newsletter Card Component](./design/desktop-cover.png)
 
 **Challenge Title**
@@ -55,3 +56,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+In this frontend challenge, you'll build a Newsletter Card Component. This challenge is perfect for you if you've been learning HTML and CSS and are looking to practice what you've learned by building something new and beginner-friendly.
