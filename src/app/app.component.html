@@ -5,19 +5,19 @@
       Sign up for our free newsletter to receive weekly coding challenges that
       will help you improve your frontend development skills.
     </div>
-    <div class="enter">
+    <form class="enter" (ngSubmit)="onSubmit()">
       <div class="input">
-        <input type="email" placeholder="Enter your email address" />
+        <input type="email" id="email" placeholder="Enter your email address"/>
         <button type="submit">Subscribe</button>
       </div>
       <div class="check">
-        <input type="checkbox" />
+        <input type="checkbox" id="checkbox"/>
         <div class="textcheck">
           By checking this box, you agree to receive our weekly newsletter
           containing coding challenges, tips, and other related content. You may
           unsubscribe from the newsletter at any time
         </div>
       </div>
-    </div>
+    </form>
   </div>
 </div>
